@@ -6,6 +6,10 @@ Instructions To Run The Application
 2.Run node server command to start the application.
 3.The application will be running on localhost:3000
 
+Server folder contains the backend code in Node.js
+App folder has all the front-end components, services.
+I have used MongoDB database hosted by mLab to retrieve the data.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
 ## Development server
