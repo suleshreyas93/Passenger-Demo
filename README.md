@@ -1,5 +1,11 @@
 # PassengerDemo
 
+Instructions To Run The Application
+
+1.Run the npm install command to download all the dependencies.
+2.Run node server command to start the application.
+3.The application will be running on localhost:3000
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
 ## Development server
